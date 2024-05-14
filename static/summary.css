@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+body{
+    background-image: url(https://wallpapercave.com/wp/wp8979206.jpg);
+}
+.Heading
+{
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  color: aliceblue;
+  
+}
+.org_txt{
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+.sum_txt{
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+.ogtxt{
+    background-color: white;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+.smtxt{
+    background-color: white;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}

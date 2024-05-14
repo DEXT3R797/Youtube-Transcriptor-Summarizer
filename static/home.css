@@ -1,0 +1,118 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Sedan+SC&display=swap');
+body{
+    background-image: url(https://wallpapercave.com/wp/wp8979206.jpg);
+    
+    font-family: "Sedan SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  color:aliceblue;
+  
+}
+.Heading
+{
+  font-family: "Sedan SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: aliceblue;
+  
+}
+input
+{
+  
+  opacity: 0.87;
+  border-radius: 5px;
+  border-width: 0.6px;
+  width: 800px; 
+  height:45px;
+}
+::placeholder
+{
+    font-size: large;
+    color: rgb(77, 77, 77);
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.sub1
+{
+    color: white;
+    opacity: 1;
+    font-size:large;
+}
+.sum
+{
+  background: transparent;
+  color: white;
+  opacity: 1;
+
+    height: 48px;
+    width: 80px;
+    
+  border-radius: 5px;
+  border-width: 1px; 
+  font-family: "Sedan SC", serif;
+    font-weight: bold;
+    font-style: normal;
+  
+}
+.sum1{
+  padding: 2px;
+  margin-left: 30px;
+}
+.sub 
+{
+  background: transparent;
+  opacity: 1;
+
+    height: 48px;
+    width: 80px;
+    
+  border-radius: 5px;
+  border-width: 1px;
+  font-family: "Sedan SC", serif;
+    font-weight: bold;
+    font-style: normal;
+  
+}
+.IN{
+    margin: 2px;
+    align-items: center;
+    padding-left: 15%;
+    padding-top: 70px;
+    
+    
+}
+
+.out1
+{
+   
+    font-size: 15px;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 2px;
+    
+}
+.trtxt{
+  background-color: white;
+  font-size: 15px;
+  padding: 2px;
+  display: flex;
+  justify-content: center;
+}
+.org_txt{
+  background-color: white;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 2px;
+  display: flex;
+  justify-content: center;
+}
+.logout
+{
+  padding: 2px;
+  display: flex;
+  justify-items: right;
+}
